@@ -1,0 +1,11 @@
+aws:
+  cognito:
+    userPoolId: us-east-1_EFk0O4Bg5
+    clientId: 5a6cmfelb5uep60k3f6irfvjid
+    clientSecret: 1mkuud3cnjj0q2nnoe7lai11davuf3c4edjgpirmj1r3rl5ubumu
+    region: us-east-1
+
+cognito:
+  endpoint: https://cognito-idp.us-east-1.amazonaws.com/
+  clientId: 5a6cmfelb5uep60k3f6irfvjid
+  clientSecret: 1mkuud3cnjj0q2nnoe7lai11davuf3c4edjgpirmj1r3rl5ubumu
